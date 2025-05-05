@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Praktikum 3</title>
+    <title>Praktikum 3</title>![foto profil](https://github.com/user-attachments/assets/2c567f36-a3c3-428b-94f3-d150afe2a428)
+
     <style>
         body {
             font-family: 'Arial', sans-serif;
