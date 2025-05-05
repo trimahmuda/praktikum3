@@ -60,7 +60,7 @@
 </head>
 <body>
     <header>
-        <img src="foto profil" alt="Foto Profil" class="profile-img">
+        <img src="foto profil" alt="![foto profil](https://github.com/user-attachments/assets/a7c3cd37-741d-4b71-9ccd-6efc9797f7b3)" class="profile-img">
         <h1>TRI ANUGGRA MAHMUDA</h1>
         <p>Ini adalah halaman profil sederhana saya</p>
     </header>
