@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum 3</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .social-links a {
+            text-decoration: none;
+            color: #fff;
+            background-color: #3498db;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .social-links a:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="foto profil.jpeg" alt="Foto Profil" class="profile-img">
+        <h1>TRI ANUGGRA MAHMUDA</h1>
+        <p>Ini adalah halaman profil sederhana saya</p>
+    </header>
+    <section>
+        <h2>Biodata</h2>
+        <p><strong>Nama Lengkap:</strong> TRI ANUGGRA MAHMUDA</p>
+        <p><strong>Tanggal Lahir:</strong> 09/05/2005</p>
+        <p><strong>Alamat:</strong> Jl. may salim batu bara,kebun roos</p>
+        <p><strong>Pekerjaan:</strong> Mahasiswa</p>
+        <p><strong>Email:</strong> @ttrrriiikk.com</p>
+    </section>
+    <section>
+        <h3>Beberapa Fakta Tentang Saya:</h3>
+        <ul>
+            <li>Saya suka mempelajari hal-hal baru</li>
+            <li>Hobi saya membaca</li>
+            <li>Makanan favorit saya adalah mie goreng</li>
+            <li>Saya memiliki ketertarikan pada fotografi</li> 
+        </ul>
+    </section>
+    <section>
+        <h2>Media Sosial</h2>
+        <p>Anda bisa menemukan saya di platform berikut:</p>
+        <div class="social-links">
+        <a href="https://www.instagram.com/ttrrriiikk=MXR6bGN5YzJrNnBpbg==" target="_blank">Instagram</a>
+        </div>
+    </section>
+</body>
+</html>
+
+     
