@@ -60,7 +60,7 @@
 </head>
 <body>
     <header>
-        <img src="foto profil.jpeg" alt="![foto profil]" class="profile-img">
+        <img src="![foto profil]" alt="Foto Profil" class="profile-img">
         <h1>TRI ANUGGRA MAHMUDA</h1>
         <p>Ini adalah halaman profil sederhana saya</p>
     </header>
